@@ -1,32 +1,32 @@
 ## Article 1: Officials
-- 1a) A competition must include the following officials: an organisation team (consisting of one or more individuals), a WCA Delegate, and sufficient judges, scramblers and score takers. [NOTE BY SARAH: Are the WCA Delegate, judges, etc. members of the organisation team? This affects the wording of 1c.]
+- 1a) A competition must include a WCA Delegate and an organisation team (consisting of one or more individuals) with the following officials:a WCA Delegate, and sufficient judges, scramblers and score takers.
 - 1b) The organisation team of a competition is responsible for:
     - 1b1) Event logistics before and during the competition.
     - 1b2) Making a copy of the WCA regulations available at the competition (either print and electronic documents are acceptable).
 - 1c) The WCA Delegate may delegate responsibilities to other members of the organization team, but is ultimately accountable for how these responsibilities are carried out. The WCA Delegate for a competition is responsible for:
-    - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be available within one week of the competition date. [NOTE BY SARAH: To whom are reports required to be made available? Are they closed to the Board, between the Board and the organisation team, or open to the public/WCA community? This ought to be specified.]
-    - 1c3) Sending the competition results to the WCA Results Team. [NOTE BY SARAH: Who/what is the Results Team? This needs to be defined in the document, or else a referred definition ought to be provided.] Results should be ready at the end of the last day of competition.
-    - 1c3a) All scrambles used during a competition should be sent with the results of the competition.
-    - 1c4) Sending corrections to the competition results to the WCA Board. Corrections should be available within one week of the competition date.
+    - 1c1) Reporting to the WCA Board regarding adherence to WCA Regulations during the competition, the overall course of the competition, and any incidents. The report must be submitted to the WCA Board within one week of the competition date. [NOTE BY SARAH: To whom are reports required to be made available? Are they closed to the Board, between the Board and the organisation team, or open to the public/WCA community? This ought to be specified.]
+    - 1c3) Sending the competition results to the WCA Results Team. [NOTE BY SARAH: Who/what is the Results Team? This needs to be defined in the document, or else a referred definition ought to be provided.] Results should be ready at the end of the last day of competition. [NOTE: Move to Guidelines]
+    - 1c3a) All scrambles used during a competition must be sent with the results of the competition.
+    - 1c4) Sending corrections to the competition results to the WCA Board. Corrections should be available within one week of the competition date. [NOTE: Move to Guidelines]
     - 1c5) Advising the other officials where necessary.
-    - 1c6) Approving all events and event formats of a competition, before the competition starts and if changes should be [NOTE BY LUCAS: are?] required during the competition.
-    - 1c7) Decisions on disqualification of a competitor during the competition, as described in other articles. [NOTE BY SARAH: Provide the specific article numbers where the rules for disqualification may be found.]
+    - 1c6) Approving all events and event formats of a competition, before the competition starts, and if changes should be [NOTE BY LUCAS: are?] required during the competition.
+    - 1c7) Decisions on disqualification of a competitor during the competition.
     - 1c8) Providing the scrambles. [NOTE BY SARAH: Is there another article with further clarification? If so, provide the article number.]
     - 1c9) Decisions on changes to the scheduled times of rounds. In cases of such changes, a clear announcement should be made to all competitors.
-- 1e) Each [NOTEL: round of an?] event must be assigned one or more judges. [NOTEL: Phrasing?]
-    - 1e1) A judge for an event is responsible for executing the procedures of the event.
-    - 1e1a) A judge may judge multiple competitors simultaneously, as long as the judge is able ensure that all Competition Regulations are followed at all times.
+- 1e) Each round of an event must have one or more judges.
+    - 1e1) A judge for a round is responsible for executing the procedures of the event.
+    - 1e1a) A judge may judge multiple competitors simultaneously, as long as the judge is able ensure that all Regulations are followed at all times.
     - 1e2) All competitors must be available for judging, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
-- 1f) Each event (except for puzzles that are not scrambled) must have one or more scramblers.
-    - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the event [NOTE BY SARAH: for the round? group?].
+- 1f) Each round of an event (except for puzzles that are not scrambled) must have one or more scramblers.
+    - 1f1) A scrambler is responsible for applying the scramble sequences to the puzzles for the round.
     - 1f2) All competitors must be available for scrambling, if needed by organisation team. Penalty: disqualification of the competitor for the competition.
 - 1g) Each event must have one or more score takers.
-    - 1g1) A score taker for an event is responsible for registering the event results [NOTE BY SARAH: in what manner?].
+    - 1g1) A score taker is responsible for compiling results.
     - 1g2) Any changes to the score sheets must made with the consent of the WCA Delegate.
-- 1h) Competitors in the same round of an event may be divided into groups. [NOTE BY SARAH: "flight" may be a debate-centric term; you might prefer another, less specific term, such as "shift"]  [NOTE BY SARAH: Is it necessary to spell out the reasons for splitting an event into flights? Does that affect the competition in a regulatory capacity?]
-    - 1h1) Judges/scramblers for a round must not judge or scramble for competitors in their own group before they have completed all of their solves for the round.
-    - 1h2) Competitors in the same group must use the same scramble sequences. [NOTEL: Competitors in?] Different groups must use different scramble sequences.
-- 1i) The WCA Delegate must be announced to the competitors [NOTE BY LUCAS: to the... public/community?] before the competition starts.
+- 1h) Competitors in the same round of an event may be divided into heats.
+    - 1h1) Judges/scramblers for a round must not judge or scramble for competitors in their own heat before they have completed all of their solves for the round.
+    - 1h2) Competitors in the same heat must use the same scramble sequences. Different heats must use different scramble sequences.
+- 1i) The WCA Delegate must be announced to the competitors before the competition starts.
 - 1j) All officials may compete in the competition.
 - 1k) Officials may serve multiple roles (e.g. organisation team, WCA Delegate, judge, score taker, scrambler).
 
@@ -272,7 +272,7 @@ All misalignments <= 45° Solved, with penalty
     - 12g2) Move pins up: UR (top-right), DR (bottom-right), DL (bottom-left), UL (top-left), U (both top), R (both right), D (both bottom), L (both left), ALL (all).
     - 12g3) Turn a wheel next to an up-position pin and move all pins down afterwards: x+ (x clockwise turns), x- (x counter clockwise turns).
     - 12g4) Turn around the puzzle so that twelve is still on top and move all pins down: y2
-
+##########################################################################################################################################
 ## Article A: Speed Solving 
 - A1) Attempts for events categorised under Speed Solving must abide by the following procedure.
     - A1a) The organization team may enforce time limits for solves and/or rounds.
